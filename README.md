@@ -2,7 +2,7 @@
 
 The purpose of this project is to demonstrate the Sentiment Analysis using Natural Language Toolkit (NLTK).
 
-***
+
 
 ## Installation Guidelines
 
